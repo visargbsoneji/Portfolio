@@ -1,0 +1,117 @@
+.header{
+	height: 70px;
+	padding: 15px;
+	padding-left: 60px;
+	
+}
+.header1{
+	height: 70px;
+	padding: 17px;
+}
+.b1{
+	background-image: url("city.jpg");
+	height: 600px;
+}
+.b11{
+	height: 500px;
+	margin-top: 100px;
+	padding: 0px;
+}
+.b111{
+	height: 100%;
+	float: left;
+	text-align: center;
+	padding-top: 50px;
+	 
+}
+.b112{
+	background-color: white;
+	float: left;
+	height: 100%;
+	padding-left: 70px;
+	padding-top: 45px;
+}
+.b2{
+	height: 75px;
+	text-align: center;
+	padding-top: 15px;
+}
+.b21{
+	width: 25%;
+	padding: 5px;
+	padding-left: 60px;
+	text-align: center;
+}
+.b3{
+	height: 300px;
+	text-align: center;
+}
+.b4{
+	height: 100px;
+	text-align: center;
+	padding-top: 25px;
+	border-style: solid;
+	border-color: #d3d3d3;
+}
+.b41{
+	height: 150px;
+	text-align: right;
+	padding-top: 50px;
+}
+.b42{
+	height: 150px;
+	text-align: left;
+	padding-top: 30px;
+	font-size: 20px;
+	padding-right: 20px;
+}
+.b5{
+	height: 100px;
+	background-color: #1D1D63;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+}
+.b51{
+	background-image: url("skills1.jpg");
+	height: 500px;
+}
+.b511{
+	height: 100%;
+	text-align: center;
+	
+	font-size: 30px;
+ 	
+ 	float:left; 
+}
+.b6{
+	height: 400px;
+	
+	text-align: center;
+	padding-top: 25px;
+	background-color: lightblue; ;
+}
+li {
+	float: left;
+	width: 25%;
+}
+
+
+li a {
+	font-size: 20px;
+	color: black;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover{
+	color: grey;
+	text-decoration: none;
+
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+}
